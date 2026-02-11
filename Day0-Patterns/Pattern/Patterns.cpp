@@ -236,10 +236,14 @@ int main()
 
     //Pattern9:FullFancy12Pattern()
     // FullFancy12Pattern(10);
-    char ch ='A'-1+1;
-    cout<<ch++;
-        cout<<ch++;
+    // char ch ='A'-1+1;
+    // cout<<ch++;
+    //     cout<<ch++;
 
-            cout<<ch++;
+    //         cout<<ch++;
+
+    
+
+
 
 }
